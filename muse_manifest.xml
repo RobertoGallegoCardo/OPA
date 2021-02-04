@@ -1,0 +1,81 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/RobertoGallegoCardo/OPA" resolutions="1x" timestamp="1612469155349">
+  <folder name="css">
+    <file name="site_global.css" crc="4033363345"/>
+    <file name="index.css" crc="87279448" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="368329704" ref="tablet>index"/>
+    <file name="home-favicon.ico" crc="3765722908" ref="index"/>
+    <file name="pexels-ella-olsson-1640774.jpg" crc="4232637294" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u121-8.png" crc="4217824354" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="down.png" crc="209469752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo blanco.png" crc="4002933004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo blanco97x97.png" crc="205656629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u191-11.png" crc="105334644" ref="index"/>
+    <file name="thumbnail.jpg" crc="4059414659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thumbnail.png" crc="299178276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4003764897" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="210343705" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1330-6.png" crc="3812552493" ref="index"/>
+    <file name="cover-cuisine-grecque.png" crc="3803048568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1426-6.png" crc="3837969311" ref="index"/>
+    <file name="pared logo.jpg" crc="400617837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u636-18.png" crc="51793164" ref="index"/>
+    <file name="u643.png" crc="4091286936" ref="index"/>
+    <file name="u643-r.png" crc="4091286936" ref="index"/>
+    <file name="u698-4.png" crc="4187634135" ref="index"/>
+    <file name="u790-4.png" crc="4207060549" ref="index"/>
+    <file name="u762-4.png" crc="251128890" ref="index"/>
+    <file name="u733-4.png" crc="283603123" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3948741586" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="441331039" seo="true" mt="1612128792173" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="279237556" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4245124479" seo="true" mt="1612128792021" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="265345479" seo="true" mt="1612469133731" redirect="true"/>
+</manifest>
